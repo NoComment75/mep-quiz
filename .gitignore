@@ -1,7 +1,8 @@
+.DS_Store
+**/@eaDir/**
+node_modules/
 __pycache__/
 *.pyc
 .env
-*.sqlite3
-alembic.ini      # if you keep secrets here; otherwise remove this line
-infra/*.log
-.DS_Store
+# comment out next line if you want dist in git:
+web/dist/
