@@ -1,0 +1,302 @@
+[
+  {
+    "text": "What is the typical flow temperature of a LTHW (Low Temperature Hot Water) system?",
+    "options": [
+      "60\u00b0C",
+      "70\u00b0C",
+      "80\u00b0C",
+      "90\u00b0C"
+    ],
+    "correct_answer": "80\u00b0C"
+  },
+  {
+    "text": "What does HVAC stand for?",
+    "options": [
+      "Heating, Ventilation and Air Conditioning",
+      "High Voltage AC",
+      "Heat Valve and Control",
+      "Hot Vapour Air Cooling"
+    ],
+    "correct_answer": "Heating, Ventilation and Air Conditioning"
+  },
+  {
+    "text": "Which refrigerant has been commonly adopted in new systems due to its lower GWP?",
+    "options": [
+      "R134a",
+      "R410A",
+      "R32",
+      "R12"
+    ],
+    "correct_answer": "R32"
+  },
+  {
+    "text": "What is the main function of an expansion vessel in heating systems?",
+    "options": [
+      "Absorb water hammer",
+      "Absorb thermal expansion of water",
+      "Store heat energy",
+      "Add water to the system"
+    ],
+    "correct_answer": "Absorb thermal expansion of water"
+  },
+  {
+    "text": "What is the standard comfort temperature range for UK offices in winter?",
+    "options": [
+      "16\u201318\u00b0C",
+      "19\u201321\u00b0C",
+      "22\u201324\u00b0C",
+      "25\u201327\u00b0C"
+    ],
+    "correct_answer": "19\u201321\u00b0C"
+  },
+  {
+    "text": "Which component in HVAC systems removes air bubbles from pipework?",
+    "options": [
+      "Filter",
+      "Automatic air vent",
+      "Pump",
+      "Strainer"
+    ],
+    "correct_answer": "Automatic air vent"
+  },
+  {
+    "text": "What unit is airflow commonly measured in for ductwork?",
+    "options": [
+      "L/s",
+      "kW",
+      "m/s",
+      "Pa"
+    ],
+    "correct_answer": "L/s"
+  },
+  {
+    "text": "Which type of heat exchanger is common in heat interface units (HIUs)?",
+    "options": [
+      "Shell and tube",
+      "Plate heat exchanger",
+      "Coil heat exchanger",
+      "Air-cooled coil"
+    ],
+    "correct_answer": "Plate heat exchanger"
+  },
+  {
+    "text": "What is the usual chilled water flow temperature in UK designs?",
+    "options": [
+      "4\u20136\u00b0C",
+      "6\u20138\u00b0C",
+      "10\u201312\u00b0C",
+      "12\u201314\u00b0C"
+    ],
+    "correct_answer": "6\u20138\u00b0C"
+  },
+  {
+    "text": "Which device in HVAC systems controls temperature automatically?",
+    "options": [
+      "Pressure gauge",
+      "Thermostat",
+      "Flow meter",
+      "Pump"
+    ],
+    "correct_answer": "Thermostat"
+  },
+  {
+    "text": "What does COP stand for in heat pump performance?",
+    "options": [
+      "Coefficient of Performance",
+      "Cooling Output Power",
+      "Capacity of Pressure",
+      "Control of Power"
+    ],
+    "correct_answer": "Coefficient of Performance"
+  },
+  {
+    "text": "What is the typical system efficiency (COP) of an air source heat pump?",
+    "options": [
+      "1\u20132",
+      "2\u20133",
+      "3\u20134",
+      "5\u20136"
+    ],
+    "correct_answer": "3\u20134"
+  },
+  {
+    "text": "What does BMS stand for in building services?",
+    "options": [
+      "Building Management System",
+      "Basic Mechanical Setup",
+      "Boiler Monitoring System",
+      "Building Maintenance Schedule"
+    ],
+    "correct_answer": "Building Management System"
+  },
+  {
+    "text": "Which device is used to filter particulates from supply air?",
+    "options": [
+      "Damper",
+      "Diffuser",
+      "Filter",
+      "Fan"
+    ],
+    "correct_answer": "Filter"
+  },
+  {
+    "text": "Which metal is most common for ductwork construction in UK buildings?",
+    "options": [
+      "Aluminium",
+      "Copper",
+      "Galvanised steel",
+      "Plastic"
+    ],
+    "correct_answer": "Galvanised steel"
+  },
+  {
+    "text": "What does VRF stand for?",
+    "options": [
+      "Variable Refrigerant Flow",
+      "Ventilation Return Flow",
+      "Variable Resistance Factor",
+      "Vacuum Release Flow"
+    ],
+    "correct_answer": "Variable Refrigerant Flow"
+  },
+  {
+    "text": "What is the function of a strainer in HVAC systems?",
+    "options": [
+      "Filter air",
+      "Remove debris from water",
+      "Reduce noise",
+      "Add chemicals"
+    ],
+    "correct_answer": "Remove debris from water"
+  },
+  {
+    "text": "What does AHU stand for?",
+    "options": [
+      "Air Handling Unit",
+      "Automatic Heating Utility",
+      "Air Humidity Unit",
+      "Air Heat Utility"
+    ],
+    "correct_answer": "Air Handling Unit"
+  },
+  {
+    "text": "Which pump type is most used for heating and cooling water distribution?",
+    "options": [
+      "Centrifugal pump",
+      "Peristaltic pump",
+      "Diaphragm pump",
+      "Gear pump"
+    ],
+    "correct_answer": "Centrifugal pump"
+  },
+  {
+    "text": "What does LTHW stand for?",
+    "options": [
+      "Low Temperature Hot Water",
+      "Large Thermal Heating Wall",
+      "Liquid Thermal Heat Water",
+      "Low Tension Heating Water"
+    ],
+    "correct_answer": "Low Temperature Hot Water"
+  },
+  {
+    "text": "What is the main function of a fan coil unit?",
+    "options": [
+      "Ventilation only",
+      "Provide local heating or cooling",
+      "Measure airflow",
+      "Store water"
+    ],
+    "correct_answer": "Provide local heating or cooling"
+  },
+  {
+    "text": "Which system component removes heat from refrigerant and rejects it outdoors?",
+    "options": [
+      "Condenser",
+      "Evaporator",
+      "Expansion valve",
+      "Compressor"
+    ],
+    "correct_answer": "Condenser"
+  },
+  {
+    "text": "What does CIBSE stand for?",
+    "options": [
+      "Chartered Institution of Building Services Engineers",
+      "Central Institute of Boiler Safety Engineers",
+      "Cooling and Insulation Board of Systems Engineering",
+      "Certified International Building Safety Experts"
+    ],
+    "correct_answer": "Chartered Institution of Building Services Engineers"
+  },
+  {
+    "text": "Which component ensures water flow is evenly distributed across a system?",
+    "options": [
+      "Pump",
+      "Balancing valve",
+      "Strainer",
+      "Filter"
+    ],
+    "correct_answer": "Balancing valve"
+  },
+  {
+    "text": "What does VAV stand for in air distribution?",
+    "options": [
+      "Variable Air Volume",
+      "Ventilation and Volume",
+      "Variable Air Velocity",
+      "Vent Assisted Ventilation"
+    ],
+    "correct_answer": "Variable Air Volume"
+  },
+  {
+    "text": "What is the main function of insulation on chilled water pipework?",
+    "options": [
+      "Prevent leaks",
+      "Reduce heat gain and condensation",
+      "Increase velocity",
+      "Add pressure"
+    ],
+    "correct_answer": "Reduce heat gain and condensation"
+  },
+  {
+    "text": "Which type of terminal unit varies airflow to match zone demand?",
+    "options": [
+      "CAV box",
+      "VAV box",
+      "Fan coil",
+      "Grille"
+    ],
+    "correct_answer": "VAV box"
+  },
+  {
+    "text": "What is the typical design static pressure in low velocity office ductwork?",
+    "options": [
+      "10\u201350 Pa",
+      "100\u2013250 Pa",
+      "400\u2013600 Pa",
+      ">1000 Pa"
+    ],
+    "correct_answer": "100\u2013250 Pa"
+  },
+  {
+    "text": "Which unit is most commonly used to express heating and cooling plant capacity?",
+    "options": [
+      "kW",
+      "L/s",
+      "m\u00b3/h",
+      "Pa"
+    ],
+    "correct_answer": "kW"
+  },
+  {
+    "text": "What is the main purpose of a thermostat in a room?",
+    "options": [
+      "Control temperature",
+      "Measure pressure",
+      "Control humidity",
+      "Measure airflow"
+    ],
+    "correct_answer": "Control temperature"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "text": "Which BS 7671 chapter sets out protection against electric shock, including ADS and RCD requirements?",
+    "options": [
+      "Chapter 41",
+      "Chapter 42",
+      "Chapter 52",
+      "Appendix 6"
+    ],
+    "correct_answer": "Chapter 41"
+  },
+  {
+    "text": "In TN systems, what is the maximum disconnection time for final circuits \u2264 32 A at 230 V?",
+    "options": [
+      "5 s",
+      "1 s",
+      "0.4 s",
+      "0.2 s"
+    ],
+    "correct_answer": "0.4 s"
+  },
+  {
+    "text": "In TT systems, what is the maximum disconnection time for final circuits \u2264 32 A at 230 V?",
+    "options": [
+      "5 s",
+      "1 s",
+      "0.4 s",
+      "0.2 s"
+    ],
+    "correct_answer": "0.2 s"
+  },
+  {
+    "text": "What IP rating is required for equipment installed in bathroom Zone 0?",
+    "options": [
+      "IPX4",
+      "IPX5",
+      "IPX7",
+      "IP2X"
+    ],
+    "correct_answer": "IPX7"
+  },
+  {
+    "text": "What is the typical SELV voltage limit permitted in bathroom Zone 0 for luminaires?",
+    "options": [
+      "230 V AC",
+      "110 V AC",
+      "12 V AC or 30 V DC",
+      "50 V AC or 120 V DC"
+    ],
+    "correct_answer": "12 V AC or 30 V DC"
+  },
+  {
+    "text": "Which breaker curve is most commonly used for general domestic final circuits?",
+    "options": [
+      "Type A",
+      "Type B",
+      "Type C",
+      "Type D"
+    ],
+    "correct_answer": "Type B"
+  },
+  {
+    "text": "Which devices provide time-delayed RCD characteristics to aid discrimination (selectivity)?",
+    "options": [
+      "Type AC RCDs",
+      "Type A RCDs",
+      "S-Type RCDs",
+      "AFDDs"
+    ],
+    "correct_answer": "S-Type RCDs"
+  },
+  {
+    "text": "Which chapter of BS 7671 covers protection against thermal effects (including fire risk)?",
+    "options": [
+      "Chapter 41",
+      "Chapter 42",
+      "Chapter 53",
+      "Appendix 14"
+    ],
+    "correct_answer": "Chapter 42"
+  },
+  {
+    "text": "Which section of BS 7671 deals with locations containing a bath or shower?",
+    "options": [
+      "Section 701",
+      "Section 702",
+      "Section 411",
+      "Appendix 3"
+    ],
+    "correct_answer": "Section 701"
+  },
+  {
+    "text": "Under Section 443, when are SPDs generally required in domestic installations?",
+    "options": [
+      "Never required domestically",
+      "Required unless the owner documents acceptance of risk and consequences are low",
+      "Only if there is PV installed",
+      "Only if the consumer unit is plastic"
+    ],
+    "correct_answer": "Required unless the owner documents acceptance of risk and consequences are low"
+  },
+  {
+    "text": "Which SPD type is installed at the origin when there is a risk of direct lightning currents (e.g. LPS or overhead lines)?",
+    "options": [
+      "Type 3",
+      "Type 2",
+      "Type 1",
+      "Type B"
+    ],
+    "correct_answer": "Type 1"
+  },
+  {
+    "text": "Main protective bonding conductor sizing for TN-C-S (PME) systems shall follow Table 54.8 and shall not be less than which copper size?",
+    "options": [
+      "6 mm\u00b2",
+      "10 mm\u00b2",
+      "16 mm\u00b2",
+      "25 mm\u00b2"
+    ],
+    "correct_answer": "10 mm\u00b2"
+  },
+  {
+    "text": "Which formula is used to size a protective conductor based on fault energy?",
+    "options": [
+      "I\u00b2R losses",
+      "Ohm\u2019s Law",
+      "Adiabatic equation",
+      "Voltage drop formula"
+    ],
+    "correct_answer": "Adiabatic equation"
+  },
+  {
+    "text": "What minimum insulation resistance value is generally required for LV final circuits tested at 500 V DC?",
+    "options": [
+      "0.25 M\u03a9",
+      "0.5 M\u03a9",
+      "1.0 M\u03a9",
+      "2.0 M\u03a9"
+    ],
+    "correct_answer": "1.0 M\u03a9"
+  },
+  {
+    "text": "Which instrument output current is required for continuity testing of protective conductors (including ring final continuity)?",
+    "options": [
+      "At least 20 mA",
+      "At least 200 mA",
+      "At least 2 A",
+      "Exactly 1 A"
+    ],
+    "correct_answer": "At least 200 mA"
+  },
+  {
+    "text": "Which test determines the prospective short-circuit current at the origin?",
+    "options": [
+      "Zs test",
+      "PFC/PSCC test",
+      "Polarity test",
+      "RCD ramp test"
+    ],
+    "correct_answer": "PFC/PSCC test"
+  },
+  {
+    "text": "For ring final circuits, which test method confirms correct ring continuity of line and CPC?",
+    "options": [
+      "R1+R2 at the farthest point only",
+      "Cross-connection of ends (r1-rn, r1-r2) and measurement of r1+rn and r1+r2 values around the ring",
+      "Insulation resistance only",
+      "Earth loop impedance only"
+    ],
+    "correct_answer": "Cross-connection of ends (r1-rn, r1-r2) and measurement of r1+rn and r1+r2 values around the ring"
+  },
+  {
+    "text": "Which regulation group in BS 7671 governs cables concealed in walls and the need for 30 mA RCD protection if < 50 mm deep?",
+    "options": [
+      "411.3.2",
+      "522.6",
+      "701.55",
+      "559.1"
+    ],
+    "correct_answer": "522.6"
+  },
+  {
+    "text": "Which RCD type is typically required on general-purpose socket circuits to account for pulsed DC components from appliances?",
+    "options": [
+      "Type AC",
+      "Type A",
+      "Type F",
+      "Type B"
+    ],
+    "correct_answer": "Type A"
+  },
+  {
+    "text": "EV charging points must include which protective feature with respect to PEN conductor faults?",
+    "options": [
+      "No special requirement",
+      "Open-PEN fault protection or equivalent means per Section 722",
+      "Only a Type AC RCD",
+      "Only a 63 A MCB"
+    ],
+    "correct_answer": "Open-PEN fault protection or equivalent means per Section 722"
+  },
+  {
+    "text": "For EV charging equipment, which RCD solution complies with BS 7671 when DC residual current may occur?",
+    "options": [
+      "Type AC RCD only",
+      "Type A RCD with 6 mA DC protection (RDC-DD) or Type B RCD",
+      "Type S RCD only",
+      "No RCD required"
+    ],
+    "correct_answer": "Type A RCD with 6 mA DC protection (RDC-DD) or Type B RCD"
+  },
+  {
+    "text": "Voltage drop limits for final circuits are typically which values (excluding distribution) under BS 7671 guidance?",
+    "options": [
+      "3% lighting, 5% other uses",
+      "5% lighting only",
+      "10% all circuits",
+      "1% all circuits"
+    ],
+    "correct_answer": "3% lighting, 5% other uses"
+  },
+  {
+    "text": "Which chapter of BS 7671 covers selection and erection of wiring systems and cables?",
+    "options": [
+      "Chapter 41",
+      "Chapter 52",
+      "Chapter 53",
+      "Chapter 46"
+    ],
+    "correct_answer": "Chapter 52"
+  },
+  {
+    "text": "Which devices are intended to detect arc faults and are recommended/required on certain socket circuits in higher-risk residential premises?",
+    "options": [
+      "SPDs",
+      "AFDDs",
+      "S-Type RCDs",
+      "RCBOs only"
+    ],
+    "correct_answer": "AFDDs"
+  },
+  {
+    "text": "Which section of BS 7671 addresses transient overvoltages and SPD selection?",
+    "options": [
+      "Section 443",
+      "Section 534",
+      "Appendix 14",
+      "Section 701"
+    ],
+    "correct_answer": "Section 443"
+  },
+  {
+    "text": "Which section of BS 7671 provides requirements for selection and erection of surge protective devices?",
+    "options": [
+      "Section 411",
+      "Section 534",
+      "Section 132",
+      "Appendix 6"
+    ],
+    "correct_answer": "Section 534"
+  },
+  {
+    "text": "Supplementary bonding in bathrooms is NOT required where which conditions are met?",
+    "options": [
+      "Circuit disconnection times and RCD additional protection are met, and extraneous-conductive-parts are bonded",
+      "Consumer unit is metal",
+      "Only if all circuits are SELV",
+      "Never permitted to omit"
+    ],
+    "correct_answer": "Circuit disconnection times and RCD additional protection are met, and extraneous-conductive-parts are bonded"
+  },
+  {
+    "text": "Which is TRUE about consumer units in domestic premises under current BS 7671?",
+    "options": [
+      "Plastic enclosures are acceptable anywhere",
+      "They must be of non-combustible construction (e.g., metal) and suitably enclosed",
+      "Timber enclosures are preferred",
+      "No requirements apply"
+    ],
+    "correct_answer": "They must be of non-combustible construction (e.g., metal) and suitably enclosed"
+  },
+  {
+    "text": "Which test verifies correct polarity at a socket-outlet (line to line contact, neutral to neutral, CPC to earth)?",
+    "options": [
+      "Earth loop impedance only",
+      "R1+R2 measurement and polarity test",
+      "Insulation resistance",
+      "PFC test"
+    ],
+    "correct_answer": "R1+R2 measurement and polarity test"
+  },
+  {
+    "text": "Before live testing, safe isolation requires what sequence?",
+    "options": [
+      "Switch off only",
+      "Prove the tester, test the circuit, re-prove the tester",
+      "Remove the fuse only",
+      "Wear insulated gloves only"
+    ],
+    "correct_answer": "Prove the tester, test the circuit, re-prove the tester"
+  }
+]

@@ -1,0 +1,8 @@
+.DS_Store
+**/@eaDir/**
+node_modules/
+__pycache__/
+*.pyc
+.env
+# comment out next line if you want dist in git:
+web/dist/

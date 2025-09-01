@@ -1,0 +1,292 @@
+[
+  {
+    "text": "Which British Standard provides requirements for water supply systems in buildings?",
+    "options": [
+      "BS EN 12056",
+      "BS 6700",
+      "BS 7671",
+      "BS 9999"
+    ],
+    "correct_answer": "BS 6700"
+  },
+  {
+    "text": "Which standard now supersedes BS 6700 for water supply design?",
+    "options": [
+      "BS EN 806",
+      "BS 7671",
+      "BS EN 12056",
+      "BS 9991"
+    ],
+    "correct_answer": "BS EN 806"
+  },
+  {
+    "text": "Which British Standard covers gravity drainage systems inside buildings?",
+    "options": [
+      "BS 6700",
+      "BS EN 806",
+      "BS EN 12056",
+      "BS 9999"
+    ],
+    "correct_answer": "BS EN 12056"
+  },
+  {
+    "text": "What is the minimum gradient for a 100 mm foul drainage pipe according to BS EN 12056?",
+    "options": [
+      "1:20",
+      "1:40",
+      "1:80",
+      "1:100"
+    ],
+    "correct_answer": "1:80"
+  },
+  {
+    "text": "What is the maximum length of a 100 mm branch discharge pipe without additional ventilation?",
+    "options": [
+      "2 m",
+      "3 m",
+      "4 m",
+      "6 m"
+    ],
+    "correct_answer": "6 m"
+  },
+  {
+    "text": "What is the purpose of a positive air pressure attenuator (PAPA) in drainage design?",
+    "options": [
+      "Increase flow",
+      "Reduce siphonage and pressure surges",
+      "Filter odours",
+      "Measure flow"
+    ],
+    "correct_answer": "Reduce siphonage and pressure surges"
+  },
+  {
+    "text": "Which UK guidance document specifically addresses legionella risk in hot and cold water systems?",
+    "options": [
+      "HSG 274 Part 2",
+      "BS EN 12056",
+      "BS EN 806",
+      "HTM 04-01"
+    ],
+    "correct_answer": "HSG 274 Part 2"
+  },
+  {
+    "text": "What is the maximum distance between access points in a straight run of underground drainage?",
+    "options": [
+      "22 m",
+      "30 m",
+      "45 m",
+      "60 m"
+    ],
+    "correct_answer": "45 m"
+  },
+  {
+    "text": "What is the purpose of rodding eyes in a drainage system?",
+    "options": [
+      "Reduce velocity",
+      "Provide access for cleaning and maintenance",
+      "Vent gases",
+      "Store foul water"
+    ],
+    "correct_answer": "Provide access for cleaning and maintenance"
+  },
+  {
+    "text": "What is the maximum permissible lead content in UK drinking water under current regulations?",
+    "options": [
+      "5 \u00b5g/L",
+      "10 \u00b5g/L",
+      "20 \u00b5g/L",
+      "50 \u00b5g/L"
+    ],
+    "correct_answer": "10 \u00b5g/L"
+  },
+  {
+    "text": "What is the minimum vertical distance between the spillover level of a tap and the outlet of a supply pipe (air gap)?",
+    "options": [
+      "10 mm",
+      "20 mm",
+      "25 mm",
+      "50 mm"
+    ],
+    "correct_answer": "20 mm"
+  },
+  {
+    "text": "Which type of valve is required for backflow prevention in high-risk fluid categories?",
+    "options": [
+      "Check valve",
+      "Double check valve",
+      "Reduced pressure zone (RPZ) valve",
+      "Ball valve"
+    ],
+    "correct_answer": "Reduced pressure zone (RPZ) valve"
+  },
+  {
+    "text": "Which UK healthcare technical memorandum covers water safety in healthcare premises?",
+    "options": [
+      "HTM 02-01",
+      "HTM 03-01",
+      "HTM 04-01",
+      "HTM 07-02"
+    ],
+    "correct_answer": "HTM 04-01"
+  },
+  {
+    "text": "What is the required minimum velocity for self-cleansing in foul drainage systems?",
+    "options": [
+      "0.5 m/s",
+      "0.75 m/s",
+      "1.0 m/s",
+      "1.5 m/s"
+    ],
+    "correct_answer": "0.75 m/s"
+  },
+  {
+    "text": "In a syphonic drainage system, what principle allows higher capacity with smaller pipes?",
+    "options": [
+      "Negative pressure siphonage",
+      "Full-bore flow under negative pressure",
+      "Gravity only",
+      "Capillary action"
+    ],
+    "correct_answer": "Full-bore flow under negative pressure"
+  },
+  {
+    "text": "Which pipe sizing method for domestic water systems is recommended in BS EN 806?",
+    "options": [
+      "Velocity method",
+      "Probable simultaneous demand method",
+      "Fixed flow rate method",
+      "Rule of thumb"
+    ],
+    "correct_answer": "Probable simultaneous demand method"
+  },
+  {
+    "text": "What is the maximum allowable temperature for cold water distribution to prevent legionella growth?",
+    "options": [
+      "15\u00b0C",
+      "20\u00b0C",
+      "25\u00b0C",
+      "30\u00b0C"
+    ],
+    "correct_answer": "20\u00b0C"
+  },
+  {
+    "text": "Which British Standard gives recommendations for the design of sanitary pipework?",
+    "options": [
+      "BS 6700",
+      "BS EN 12056",
+      "BS EN 806",
+      "BS 9999"
+    ],
+    "correct_answer": "BS EN 12056"
+  },
+  {
+    "text": "What is the maximum allowable pressure drop across a water meter in domestic installations?",
+    "options": [
+      "0.25 bar",
+      "0.5 bar",
+      "1.0 bar",
+      "1.5 bar"
+    ],
+    "correct_answer": "0.25 bar"
+  },
+  {
+    "text": "What is the minimum vent stack height above roof level in the UK?",
+    "options": [
+      "150 mm",
+      "300 mm",
+      "600 mm",
+      "1 m"
+    ],
+    "correct_answer": "900 mm"
+  },
+  {
+    "text": "Which device is used to prevent foul air entering buildings in combined drainage?",
+    "options": [
+      "Interceptor trap",
+      "Air admittance valve",
+      "Non-return valve",
+      "Check valve"
+    ],
+    "correct_answer": "Interceptor trap"
+  },
+  {
+    "text": "What is the required water temperature at calorifier outlets in healthcare facilities under HTM 04-01?",
+    "options": [
+      "50\u00b0C",
+      "55\u00b0C",
+      "60\u00b0C",
+      "65\u00b0C"
+    ],
+    "correct_answer": "60\u00b0C"
+  },
+  {
+    "text": "Which pipe material is generally unsuitable for use with softened water due to corrosion risk?",
+    "options": [
+      "Copper",
+      "PVC",
+      "PEX",
+      "Stainless steel"
+    ],
+    "correct_answer": "Copper"
+  },
+  {
+    "text": "Which regulation requires prevention of waste, misuse, and contamination of water supply in the UK?",
+    "options": [
+      "Water Supply (Water Fittings) Regulations 1999",
+      "Building Regulations Part G",
+      "BS EN 806",
+      "HSG 274"
+    ],
+    "correct_answer": "Water Supply (Water Fittings) Regulations 1999"
+  },
+  {
+    "text": "What is the primary risk of excessive velocity in water distribution pipes?",
+    "options": [
+      "Reduced temperature",
+      "Erosion and noise",
+      "Pressure drop",
+      "Increased legionella risk"
+    ],
+    "correct_answer": "Erosion and noise"
+  },
+  {
+    "text": "What is the purpose of a break tank in water supply systems?",
+    "options": [
+      "Increase velocity",
+      "Provide storage and prevent backflow",
+      "Measure flow",
+      "Reduce odour"
+    ],
+    "correct_answer": "Provide storage and prevent backflow"
+  },
+  {
+    "text": "What is the typical design flow velocity for cold water distribution in domestic systems?",
+    "options": [
+      "0.5\u20131.0 m/s",
+      "1.0\u20132.0 m/s",
+      "2.0\u20133.0 m/s",
+      "3.0\u20134.0 m/s"
+    ],
+    "correct_answer": "1.0\u20132.0 m/s"
+  },
+  {
+    "text": "Which drainage design principle prevents trap seal loss due to pressure fluctuations?",
+    "options": [
+      "Siphonic action",
+      "Ventilation of stacks",
+      "Interceptor traps",
+      "Water hammer control"
+    ],
+    "correct_answer": "Ventilation of stacks"
+  },
+  {
+    "text": "What is the maximum permitted chloride concentration in stainless steel hot water systems?",
+    "options": [
+      "25 mg/L",
+      "50 mg/L",
+      "100 mg/L",
+      "150 mg/L"
+    ],
+    "correct_answer": "50 mg/L"
+  }
+]

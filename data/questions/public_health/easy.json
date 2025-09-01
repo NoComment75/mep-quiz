@@ -1,0 +1,302 @@
+[
+  {
+    "text": "What does the term 'potable water' mean?",
+    "options": [
+      "Recycled water",
+      "Safe drinking water",
+      "Rainwater only",
+      "Heating water"
+    ],
+    "correct_answer": "Safe drinking water"
+  },
+  {
+    "text": "Which colour is commonly used to identify cold water pipework in the UK?",
+    "options": [
+      "Blue",
+      "Green",
+      "Red",
+      "Yellow"
+    ],
+    "correct_answer": "Blue"
+  },
+  {
+    "text": "Which UK document covers water supply and hygiene standards in buildings?",
+    "options": [
+      "Building Regulations Part G",
+      "Part L",
+      "Part F",
+      "Part B"
+    ],
+    "correct_answer": "Building Regulations Part G"
+  },
+  {
+    "text": "What is the minimum pressure usually required at a tap for drinking water use?",
+    "options": [
+      "0.5 bar",
+      "1.0 bar",
+      "1.5 bar",
+      "2.0 bar"
+    ],
+    "correct_answer": "1.0 bar"
+  },
+  {
+    "text": "What device is used to prevent water from flowing back into the mains supply?",
+    "options": [
+      "Stopcock",
+      "Check valve",
+      "Drain cock",
+      "Strainer"
+    ],
+    "correct_answer": "Check valve"
+  },
+  {
+    "text": "What does the term 'greywater' refer to?",
+    "options": [
+      "Rainwater",
+      "Wastewater from sinks, showers and baths",
+      "Sewage",
+      "Potable water"
+    ],
+    "correct_answer": "Wastewater from sinks, showers and baths"
+  },
+  {
+    "text": "What colour is used to identify hot water pipework?",
+    "options": [
+      "Blue",
+      "Red",
+      "Green",
+      "Yellow"
+    ],
+    "correct_answer": "Red"
+  },
+  {
+    "text": "What is the purpose of a trap under a sink?",
+    "options": [
+      "Store water",
+      "Prevent sewer gases entering the room",
+      "Increase pressure",
+      "Control flow rate"
+    ],
+    "correct_answer": "Prevent sewer gases entering the room"
+  },
+  {
+    "text": "What is the typical storage temperature of hot water to prevent legionella?",
+    "options": [
+      "40\u00b0C",
+      "50\u00b0C",
+      "60\u00b0C",
+      "70\u00b0C"
+    ],
+    "correct_answer": "60\u00b0C"
+  },
+  {
+    "text": "What is the minimum recommended temperature for cold water at the outlet to prevent legionella?",
+    "options": [
+      "Below 10\u00b0C",
+      "Below 15\u00b0C",
+      "Below 20\u00b0C",
+      "Below 25\u00b0C"
+    ],
+    "correct_answer": "Below 20\u00b0C"
+  },
+  {
+    "text": "What does WC stand for?",
+    "options": [
+      "Water Coil",
+      "Water Closet",
+      "Waste Compartment",
+      "Wash Chamber"
+    ],
+    "correct_answer": "Water Closet"
+  },
+  {
+    "text": "Which fitting is commonly used to isolate a tap for maintenance?",
+    "options": [
+      "Ball valve",
+      "Stopcock",
+      "Service valve",
+      "Drain cock"
+    ],
+    "correct_answer": "Service valve"
+  },
+  {
+    "text": "What is the main function of rainwater gutters on a roof?",
+    "options": [
+      "Collect potable water",
+      "Direct rainwater to drains",
+      "Store water",
+      "Ventilate the roof"
+    ],
+    "correct_answer": "Direct rainwater to drains"
+  },
+  {
+    "text": "What does a soil stack carry?",
+    "options": [
+      "Rainwater only",
+      "Sewage and foul water",
+      "Potable water",
+      "Gas"
+    ],
+    "correct_answer": "Sewage and foul water"
+  },
+  {
+    "text": "What is the purpose of a vent pipe on a drainage system?",
+    "options": [
+      "Increase flow speed",
+      "Release gases and balance pressure",
+      "Reduce noise",
+      "Supply fresh air"
+    ],
+    "correct_answer": "Release gases and balance pressure"
+  },
+  {
+    "text": "What is the typical colour used for rainwater pipe identification?",
+    "options": [
+      "Black",
+      "Red",
+      "Green",
+      "Yellow"
+    ],
+    "correct_answer": "Green"
+  },
+  {
+    "text": "Which material is most commonly used for underground drainage pipes?",
+    "options": [
+      "Copper",
+      "PVC (plastic)",
+      "Cast iron",
+      "Galvanised steel"
+    ],
+    "correct_answer": "PVC (plastic)"
+  },
+  {
+    "text": "What is the purpose of an overflow pipe in a water tank?",
+    "options": [
+      "Increase pressure",
+      "Prevent flooding if tank overfills",
+      "Drain the system",
+      "Measure flow"
+    ],
+    "correct_answer": "Prevent flooding if tank overfills"
+  },
+  {
+    "text": "What does the term 'soil and vent pipe' mean?",
+    "options": [
+      "A pipe for rainwater only",
+      "A pipe carrying foul water and venting gases",
+      "A hot water pipe",
+      "An air conditioning duct"
+    ],
+    "correct_answer": "A pipe carrying foul water and venting gases"
+  },
+  {
+    "text": "Which fitting is commonly used at the base of downpipes to prevent blockages from debris?",
+    "options": [
+      "Leaf guard",
+      "Gully",
+      "Interceptor",
+      "Filter"
+    ],
+    "correct_answer": "Gully"
+  },
+  {
+    "text": "What is the main function of a stopcock in domestic plumbing?",
+    "options": [
+      "Control water flow into the building",
+      "Drain water to sewer",
+      "Regulate pressure",
+      "Ventilate the system"
+    ],
+    "correct_answer": "Control water flow into the building"
+  },
+  {
+    "text": "What is the purpose of lagging (insulation) on water pipes?",
+    "options": [
+      "Reduce leaks",
+      "Reduce heat loss and prevent freezing",
+      "Increase flow",
+      "Reduce noise"
+    ],
+    "correct_answer": "Reduce heat loss and prevent freezing"
+  },
+  {
+    "text": "Which type of waste is carried by a waste pipe connected to a sink or basin?",
+    "options": [
+      "Foul water",
+      "Greywater",
+      "Rainwater",
+      "Potable water"
+    ],
+    "correct_answer": "Greywater"
+  },
+  {
+    "text": "What does the term 'blackwater' mean in drainage?",
+    "options": [
+      "Rainwater",
+      "Toilet waste containing sewage",
+      "Greywater",
+      "Filtered potable water"
+    ],
+    "correct_answer": "Toilet waste containing sewage"
+  },
+  {
+    "text": "What is the minimum gradient typically required for foul drainage pipes?",
+    "options": [
+      "1:20",
+      "1:40",
+      "1:60",
+      "1:80"
+    ],
+    "correct_answer": "1:40"
+  },
+  {
+    "text": "What is the main function of a water meter?",
+    "options": [
+      "Measure water quality",
+      "Measure water consumption",
+      "Control pressure",
+      "Filter water"
+    ],
+    "correct_answer": "Measure water consumption"
+  },
+  {
+    "text": "What is the name of the valve that prevents contaminated water siphoning back into clean water supplies?",
+    "options": [
+      "Double check valve",
+      "Stopcock",
+      "Drain cock",
+      "Strainer"
+    ],
+    "correct_answer": "Double check valve"
+  },
+  {
+    "text": "Which type of drain is typically found at the edge of roads to collect surface water?",
+    "options": [
+      "Gully",
+      "Channel drain",
+      "Interceptor",
+      "Soil pipe"
+    ],
+    "correct_answer": "Gully"
+  },
+  {
+    "text": "What does the term 'cistern' refer to in plumbing?",
+    "options": [
+      "A pump",
+      "A water storage tank",
+      "A drain trap",
+      "A soil pipe"
+    ],
+    "correct_answer": "A water storage tank"
+  },
+  {
+    "text": "Which component is required in hot water systems to allow for expansion?",
+    "options": [
+      "Expansion vessel",
+      "Drain valve",
+      "Check valve",
+      "Stopcock"
+    ],
+    "correct_answer": "Expansion vessel"
+  }
+]
