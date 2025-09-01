@@ -1,0 +1,322 @@
+[
+  {
+    "text": "Which device protects against earth leakage faults?",
+    "options": [
+      "MCB",
+      "RCD",
+      "Isolator",
+      "Fuse"
+    ],
+    "correct_answer": "RCD"
+  },
+  {
+    "text": "What is the standard voltage for UK domestic supplies?",
+    "options": [
+      "110V",
+      "230V",
+      "400V",
+      "12V"
+    ],
+    "correct_answer": "230V"
+  },
+  {
+    "text": "What colour is the live wire in UK wiring post-2006?",
+    "options": [
+      "Blue",
+      "Brown",
+      "Green/Yellow",
+      "Black"
+    ],
+    "correct_answer": "Brown"
+  },
+  {
+    "text": "What is the purpose of a consumer unit?",
+    "options": [
+      "Control lighting",
+      "Distribute and protect circuits",
+      "Store tools",
+      "Generate electricity"
+    ],
+    "correct_answer": "Distribute and protect circuits"
+  },
+  {
+    "text": "Which test verifies that conductors are not mixed up?",
+    "options": [
+      "Insulation resistance",
+      "Continuity",
+      "Polarity",
+      "Earth loop impedance"
+    ],
+    "correct_answer": "Polarity"
+  },
+  {
+    "text": "What colour is the protective conductor (CPC) in UK wiring?",
+    "options": [
+      "Blue",
+      "Brown",
+      "Green/Yellow",
+      "Grey"
+    ],
+    "correct_answer": "Green/Yellow"
+  },
+  {
+    "text": "Which test confirms correct connection of line, neutral and CPC at accessories?",
+    "options": [
+      "Insulation resistance",
+      "Continuity of CPC",
+      "Polarity",
+      "Prospective fault current"
+    ],
+    "correct_answer": "Polarity"
+  },
+  {
+    "text": "BS 7671 requires additional protection by 30 mA RCD for socket-outlet circuits up to what rating in most cases?",
+    "options": [
+      "13 A",
+      "20 A",
+      "32 A",
+      "63 A"
+    ],
+    "correct_answer": "32 A"
+  },
+  {
+    "text": "In domestic premises, lighting circuits should have which additional protection?",
+    "options": [
+      "Type B MCB only",
+      "30 mA RCD",
+      "Time-delay RCD",
+      "No additional protection"
+    ],
+    "correct_answer": "30 mA RCD"
+  },
+  {
+    "text": "Which earthing arrangement uses a combined neutral and protective conductor up to the service head (PME)?",
+    "options": [
+      "TT",
+      "TN-S",
+      "TN-C-S",
+      "IT"
+    ],
+    "correct_answer": "TN-C-S"
+  },
+  {
+    "text": "What is the minimum IP rating generally required for equipment in bathroom Zone 1 (no jets)?",
+    "options": [
+      "IPX2",
+      "IPX3",
+      "IPX4",
+      "IPX7"
+    ],
+    "correct_answer": "IPX4"
+  },
+  {
+    "text": "Which device detects dangerous arc faults on socket circuits as required in certain premises by BS 7671?",
+    "options": [
+      "AFDD",
+      "SPD",
+      "RCD Type S",
+      "Isolator"
+    ],
+    "correct_answer": "AFDD"
+  },
+  {
+    "text": "AFDDs are mandated for socket-outlet circuits (\u226432 A) in which type of premises?",
+    "options": [
+      "Detached houses",
+      "Higher Risk Residential Buildings / HMOs / Student accommodation / Care homes",
+      "All commercial offices",
+      "Agricultural buildings"
+    ],
+    "correct_answer": "Higher Risk Residential Buildings / HMOs / Student accommodation / Care homes"
+  },
+  {
+    "text": "For general-purpose socket circuits in modern domestic installs, which RCD type is typically selected under BS 7671 A2:2022?",
+    "options": [
+      "Type AC",
+      "Type A",
+      "Type F",
+      "Type B"
+    ],
+    "correct_answer": "Type A"
+  },
+  {
+    "text": "EV charge points require RCD protection of at least which type according to BS 7671 Section 722?",
+    "options": [
+      "Type AC",
+      "Type A (with 6 mA DC protection) or Type B",
+      "Type S only",
+      "No RCD needed"
+    ],
+    "correct_answer": "Type A (with 6 mA DC protection) or Type B"
+  },
+  {
+    "text": "Surge protection (SPDs) should be provided unless the owner formally accepts the risk. Which regulation part covers this principle?",
+    "options": [
+      "Part 2 Definitions",
+      "Chapter 41 ADS",
+      "Section 443 Transient overvoltages",
+      "Appendix 14"
+    ],
+    "correct_answer": "Section 443 Transient overvoltages"
+  },
+  {
+    "text": "At the origin of an installation, SPDs should be which type(s) when required?",
+    "options": [
+      "Type 3 only",
+      "Type 1 or Type 2",
+      "Type 4 only",
+      "Any type is prohibited"
+    ],
+    "correct_answer": "Type 1 or Type 2"
+  },
+  {
+    "text": "What enclosure material is required for domestic consumer units (since earlier amendments and still applicable)?",
+    "options": [
+      "Plastic",
+      "Timber",
+      "Non-combustible (e.g. metal)",
+      "Any material if labelled"
+    ],
+    "correct_answer": "Non-combustible (e.g. metal)"
+  },
+  {
+    "text": "Which main service in a dwelling normally requires main protective bonding?",
+    "options": [
+      "Cold water in metal",
+      "Plastic waste pipe",
+      "Timber joist",
+      "Plasterboard"
+    ],
+    "correct_answer": "Cold water in metal"
+  },
+  {
+    "text": "What is the UK mains frequency used in BS 7671 designs?",
+    "options": [
+      "40 Hz",
+      "50 Hz",
+      "60 Hz",
+      "100 Hz"
+    ],
+    "correct_answer": "50 Hz"
+  },
+  {
+    "text": "Which test is used to verify the integrity of insulation between conductors?",
+    "options": [
+      "Polarity",
+      "Insulation resistance",
+      "RCD trip time",
+      "Earth loop impedance"
+    ],
+    "correct_answer": "Insulation resistance"
+  },
+  {
+    "text": "Which BS 7671 section gives special requirements for locations containing a bath or shower?",
+    "options": [
+      "Section 701",
+      "Section 411",
+      "Section 530",
+      "Appendix 3"
+    ],
+    "correct_answer": "Section 701"
+  },
+  {
+    "text": "What is the typical protective device used on a ring final circuit in domestic premises?",
+    "options": [
+      "6 A MCB",
+      "16 A MCB",
+      "32 A MCB or RCBO",
+      "63 A MCCB"
+    ],
+    "correct_answer": "32 A MCB or RCBO"
+  },
+  {
+    "text": "Which protective measure disconnects supply automatically under fault conditions?",
+    "options": [
+      "Double insulation only",
+      "Automatic Disconnection of Supply (ADS)",
+      "Functional switching",
+      "Emergency lighting"
+    ],
+    "correct_answer": "Automatic Disconnection of Supply (ADS)"
+  },
+  {
+    "text": "For TN systems, the maximum disconnection time for final circuits not exceeding 32 A (U0=230 V) is:",
+    "options": [
+      "5 s",
+      "0.4 s",
+      "0.2 s",
+      "1 s"
+    ],
+    "correct_answer": "0.4 s"
+  },
+  {
+    "text": "Additional protection by 30 mA RCD is required for cables buried in walls at a depth < 50 mm unless other conditions are met. Which regulation group covers this?",
+    "options": [
+      "522.6",
+      "411.3.2",
+      "701.32",
+      "530.3"
+    ],
+    "correct_answer": "522.6"
+  },
+  {
+    "text": "Which conductor must be continuous and reliable throughout the installation?",
+    "options": [
+      "Line conductor",
+      "Neutral conductor",
+      "Protective conductor (CPC)",
+      "Pilot conductor"
+    ],
+    "correct_answer": "Protective conductor (CPC)"
+  },
+  {
+    "text": "Safe isolation before work should always start with which step?",
+    "options": [
+      "Remove a fuse and proceed",
+      "Prove the voltage indicator on a known source, test, then re-prove",
+      "Just turn off the switch",
+      "Wear gloves only"
+    ],
+    "correct_answer": "Prove the voltage indicator on a known source, test, then re-prove"
+  },
+  {
+    "text": "Which BS 7671 chapter covers selection and erection of wiring systems and accessories?",
+    "options": [
+      "Chapter 41",
+      "Chapter 52",
+      "Chapter 64",
+      "Appendix 6"
+    ],
+    "correct_answer": "Chapter 52"
+  },
+  {
+    "text": "Amendment 3:2024 introduced new definitions and a regulation for which devices in Section 530?",
+    "options": [
+      "Variable speed drives",
+      "Bidirectional and unidirectional protective devices",
+      "Photocells",
+      "Time switches"
+    ],
+    "correct_answer": "Bidirectional and unidirectional protective devices"
+  },
+  {
+    "text": "Which statement about SPDs under BS 7671 is correct?",
+    "options": [
+      "Never required in domestic installations",
+      "Required where consequences include injury, safety service failure, or significant financial/data loss",
+      "Only used with PV systems",
+      "Prohibited with metal consumer units"
+    ],
+    "correct_answer": "Required where consequences include injury, safety service failure, or significant financial/data loss"
+  },
+  {
+    "text": "Which RCD characteristic is used for additional protection of final circuits in most cases?",
+    "options": [
+      "100 mA time-delay",
+      "300 mA time-delay",
+      "30 mA instantaneous",
+      "10 mA time-delay"
+    ],
+    "correct_answer": "30 mA instantaneous"
+  }
+]

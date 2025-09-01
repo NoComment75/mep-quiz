@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+*.sqlite3
+alembic.ini      # if you keep secrets here; otherwise remove this line
+infra/*.log
+.DS_Store

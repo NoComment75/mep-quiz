@@ -1,0 +1,302 @@
+[
+  {
+    "text": "What is the typical chilled water temperature difference (\u0394T) used in design calculations?",
+    "options": [
+      "2 K",
+      "5 K",
+      "8 K",
+      "10 K"
+    ],
+    "correct_answer": "5 K"
+  },
+  {
+    "text": "Which document sets out UK building ventilation requirements?",
+    "options": [
+      "CIBSE Guide A",
+      "Building Regulations Part F",
+      "BS 7671",
+      "HTM 03-01"
+    ],
+    "correct_answer": "Building Regulations Part F"
+  },
+  {
+    "text": "What is the standard fresh air rate per person for offices according to CIBSE Guide B?",
+    "options": [
+      "5 L/s",
+      "8 L/s",
+      "10 L/s",
+      "12 L/s"
+    ],
+    "correct_answer": "10 L/s"
+  },
+  {
+    "text": "What is the maximum recommended air velocity in main ducts to limit noise?",
+    "options": [
+      "2 m/s",
+      "4 m/s",
+      "6\u20138 m/s",
+      "12 m/s"
+    ],
+    "correct_answer": "6\u20138 m/s"
+  },
+  {
+    "text": "Which system allows heating and cooling to be provided simultaneously to different zones?",
+    "options": [
+      "Two-pipe fan coil system",
+      "Four-pipe fan coil system",
+      "Single split system",
+      "Window AC units"
+    ],
+    "correct_answer": "Four-pipe fan coil system"
+  },
+  {
+    "text": "Which efficiency metric is used for seasonal performance of cooling systems?",
+    "options": [
+      "COP",
+      "EER",
+      "SEER",
+      "SPF"
+    ],
+    "correct_answer": "SEER"
+  },
+  {
+    "text": "Which HVAC system uses refrigerant directly in terminal units with multiple indoor connections?",
+    "options": [
+      "VRF",
+      "Fan coil",
+      "Chilled beams",
+      "AHU only"
+    ],
+    "correct_answer": "VRF"
+  },
+  {
+    "text": "What is the normal indoor relative humidity comfort range?",
+    "options": [
+      "20\u201330%",
+      "30\u201350%",
+      "40\u201360%",
+      "60\u201380%"
+    ],
+    "correct_answer": "40\u201360%"
+  },
+  {
+    "text": "Which type of chiller has the highest efficiency for large central plants?",
+    "options": [
+      "Air-cooled chiller",
+      "Water-cooled chiller",
+      "Split DX",
+      "VRF system"
+    ],
+    "correct_answer": "Water-cooled chiller"
+  },
+  {
+    "text": "What is the primary role of balancing valves in water systems?",
+    "options": [
+      "Filter water",
+      "Absorb expansion",
+      "Ensure even flow distribution",
+      "Measure velocity"
+    ],
+    "correct_answer": "Ensure even flow distribution"
+  },
+  {
+    "text": "What is the maximum acceptable CO\u2082 level in occupied offices according to CIBSE?",
+    "options": [
+      "500 ppm",
+      "800 ppm",
+      "1000 ppm",
+      "1500 ppm"
+    ],
+    "correct_answer": "1000 ppm"
+  },
+  {
+    "text": "Which pump configuration provides resilience in chilled water systems?",
+    "options": [
+      "Single pump",
+      "Series pumps",
+      "Duty/standby pumps",
+      "Two-speed pump"
+    ],
+    "correct_answer": "Duty/standby pumps"
+  },
+  {
+    "text": "What type of control valve provides stable flow independent of pressure fluctuations?",
+    "options": [
+      "Two-port valve",
+      "Three-port valve",
+      "PICV (Pressure Independent Control Valve)",
+      "Balancing valve"
+    ],
+    "correct_answer": "PICV (Pressure Independent Control Valve)"
+  },
+  {
+    "text": "What is the primary design concern for ductwork penetrating fire compartments?",
+    "options": [
+      "Colour",
+      "Sealing and fire dampers",
+      "Thickness",
+      "Insulation type"
+    ],
+    "correct_answer": "Sealing and fire dampers"
+  },
+  {
+    "text": "Which heat recovery device in AHUs uses a rotating wheel?",
+    "options": [
+      "Run-around coil",
+      "Thermal wheel",
+      "Heat pump coil",
+      "Plate exchanger"
+    ],
+    "correct_answer": "Thermal wheel"
+  },
+  {
+    "text": "Which type of ventilation system supplies air at floor level and extracts it at ceiling level?",
+    "options": [
+      "Mixing ventilation",
+      "Displacement ventilation",
+      "Cross ventilation",
+      "Stack ventilation"
+    ],
+    "correct_answer": "Displacement ventilation"
+  },
+  {
+    "text": "What is the usual noise rating (NR) target for general office spaces?",
+    "options": [
+      "NR 20",
+      "NR 25",
+      "NR 30\u201335",
+      "NR 45"
+    ],
+    "correct_answer": "NR 30\u201335"
+  },
+  {
+    "text": "What is the standard air change rate (ACH) for general office areas?",
+    "options": [
+      "2\u20134 ACH",
+      "6\u20138 ACH",
+      "10\u201312 ACH",
+      "15\u201320 ACH"
+    ],
+    "correct_answer": "6\u20138 ACH"
+  },
+  {
+    "text": "Which system type uses chilled beams for cooling?",
+    "options": [
+      "Radiant heating",
+      "Induction ventilation",
+      "Active/passive chilled beam system",
+      "Fan coil"
+    ],
+    "correct_answer": "Active/passive chilled beam system"
+  },
+  {
+    "text": "What is the main efficiency benefit of VSDs on pumps and fans?",
+    "options": [
+      "Reduce vibration",
+      "Match output to demand",
+      "Reduce water hammer",
+      "Lower material cost"
+    ],
+    "correct_answer": "Match output to demand"
+  },
+  {
+    "text": "Which water treatment method prevents legionella in cooling towers?",
+    "options": [
+      "UV light only",
+      "Chlorination and biocide dosing",
+      "Boiling water",
+      "Filtration only"
+    ],
+    "correct_answer": "Chlorination and biocide dosing"
+  },
+  {
+    "text": "Which UK document provides practical guidance on legionella prevention?",
+    "options": [
+      "BS 9999",
+      "BS EN 16798",
+      "HSG274",
+      "CIBSE Guide C"
+    ],
+    "correct_answer": "HSG274"
+  },
+  {
+    "text": "Which type of boiler recovers latent heat from flue gases?",
+    "options": [
+      "Standard boiler",
+      "Condensing boiler",
+      "Electric boiler",
+      "Oil boiler"
+    ],
+    "correct_answer": "Condensing boiler"
+  },
+  {
+    "text": "What is the main advantage of underfloor air distribution systems?",
+    "options": [
+      "Cheaper",
+      "Localized control and efficiency",
+      "Easier maintenance",
+      "Quieter operation"
+    ],
+    "correct_answer": "Localized control and efficiency"
+  },
+  {
+    "text": "What design method is used to calculate building cooling loads?",
+    "options": [
+      "Heat balance method",
+      "Rule of thumb",
+      "Diversity factor",
+      "Degree-day method"
+    ],
+    "correct_answer": "Heat balance method"
+  },
+  {
+    "text": "Which type of AHU coil allows for free cooling with outside air?",
+    "options": [
+      "Economiser coil",
+      "Run-around coil",
+      "DX coil",
+      "Plate coil"
+    ],
+    "correct_answer": "Economiser coil"
+  },
+  {
+    "text": "Which parameter is used to measure duct leakage performance?",
+    "options": [
+      "Velocity",
+      "Pressure drop",
+      "Air leakage rate (L/s per m\u00b2)",
+      "Noise rating"
+    ],
+    "correct_answer": "Air leakage rate (L/s per m\u00b2)"
+  },
+  {
+    "text": "What is the function of commissioning in HVAC systems?",
+    "options": [
+      "Cleaning pipework",
+      "Ensuring system operates to design intent",
+      "Measuring pipe thickness",
+      "Testing refrigerant only"
+    ],
+    "correct_answer": "Ensuring system operates to design intent"
+  },
+  {
+    "text": "What is the advantage of variable refrigerant flow (VRF) over split systems?",
+    "options": [
+      "Simpler installation",
+      "Zoning and efficiency",
+      "Lower cost",
+      "No maintenance required"
+    ],
+    "correct_answer": "Zoning and efficiency"
+  },
+  {
+    "text": "What is the recommended maximum branch duct velocity for offices?",
+    "options": [
+      "2\u20134 m/s",
+      "6\u20138 m/s",
+      "10\u201312 m/s",
+      "12\u201314 m/s"
+    ],
+    "correct_answer": "2\u20134 m/s"
+  }
+]

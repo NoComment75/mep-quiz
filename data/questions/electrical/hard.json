@@ -1,0 +1,302 @@
+[
+  {
+    "text": "Which regulation in BS 7671 sets out the requirements for automatic disconnection of supply (ADS) in TN systems?",
+    "options": [
+      "411.3.2.2",
+      "411.3.1.1",
+      "411.4.4",
+      "411.5.3"
+    ],
+    "correct_answer": "411.3.2.2"
+  },
+  {
+    "text": "For a TT system, which regulation defines the maximum earth fault loop impedance (RA \u00d7 I\u0394n \u2264 50 V)?",
+    "options": [
+      "411.5.3",
+      "411.4.9",
+      "411.3.2.2",
+      "411.6.2"
+    ],
+    "correct_answer": "411.5.3"
+  },
+  {
+    "text": "When using the adiabatic equation for sizing protective conductors, what does the factor 'k' represent?",
+    "options": [
+      "Thermal capacity of insulation",
+      "Material constant considering thermal and resistive properties",
+      "Current rating of conductor",
+      "Voltage factor"
+    ],
+    "correct_answer": "Material constant considering thermal and resistive properties"
+  },
+  {
+    "text": "What is the required minimum disconnection time for final circuits not exceeding 32 A in TT systems?",
+    "options": [
+      "0.2 s",
+      "0.4 s",
+      "1 s",
+      "5 s"
+    ],
+    "correct_answer": "0.2 s"
+  },
+  {
+    "text": "Which BS 7671 regulation group specifies protection against voltage disturbances and electromagnetic influences?",
+    "options": [
+      "Chapter 44",
+      "Chapter 53",
+      "Section 534",
+      "Appendix 14"
+    ],
+    "correct_answer": "Chapter 44"
+  },
+  {
+    "text": "Which section of BS 7671 requires consideration of bidirectional protection devices in renewable energy systems?",
+    "options": [
+      "Section 712",
+      "Section 722",
+      "Section 551",
+      "Section 443"
+    ],
+    "correct_answer": "Section 551"
+  },
+  {
+    "text": "Which section specifically deals with the requirements for PV installations?",
+    "options": [
+      "Section 551",
+      "Section 712",
+      "Section 722",
+      "Section 443"
+    ],
+    "correct_answer": "Section 712"
+  },
+  {
+    "text": "Which part of BS 7671 covers energy efficiency considerations?",
+    "options": [
+      "Part 8",
+      "Part 6",
+      "Part 5",
+      "Appendix 6"
+    ],
+    "correct_answer": "Part 8"
+  },
+  {
+    "text": "What is the maximum permissible Zs for a 32 A Type B MCB on a TN system at 230 V, according to Table 41.3?",
+    "options": [
+      "1.44 \u03a9",
+      "1.37 \u03a9",
+      "1.09 \u03a9",
+      "0.87 \u03a9"
+    ],
+    "correct_answer": "1.37 \u03a9"
+  },
+  {
+    "text": "Which regulation in Section 443 defines when SPDs are required based on risk assessment or consequence?",
+    "options": [
+      "443.4",
+      "443.1",
+      "443.3.1",
+      "534.4.5"
+    ],
+    "correct_answer": "443.4"
+  },
+  {
+    "text": "Which SPD type must be installed when there is risk of direct lightning strikes due to overhead lines or external LPS?",
+    "options": [
+      "Type 2",
+      "Type 3",
+      "Type 1",
+      "Type B"
+    ],
+    "correct_answer": "Type 1"
+  },
+  {
+    "text": "Which BS 7671 section provides requirements for electrical installations in caravan parks and similar locations?",
+    "options": [
+      "Section 708",
+      "Section 721",
+      "Section 709",
+      "Section 717"
+    ],
+    "correct_answer": "Section 708"
+  },
+  {
+    "text": "Which section of BS 7671 covers requirements for mobile and transportable units?",
+    "options": [
+      "Section 717",
+      "Section 721",
+      "Section 722",
+      "Section 740"
+    ],
+    "correct_answer": "Section 717"
+  },
+  {
+    "text": "In PV systems, which device may be required to prevent DC fault currents affecting the AC side?",
+    "options": [
+      "AFDD",
+      "DC isolator",
+      "Type B RCD",
+      "SPD Type 2"
+    ],
+    "correct_answer": "Type B RCD"
+  },
+  {
+    "text": "Which regulation specifies that all new socket-outlets up to 32 A for general use require 30 mA RCD protection?",
+    "options": [
+      "411.3.3",
+      "411.4.4",
+      "701.411.3.3",
+      "531.3.2"
+    ],
+    "correct_answer": "411.3.3"
+  },
+  {
+    "text": "Which section of BS 7671 deals with electrical installations in agricultural and horticultural premises?",
+    "options": [
+      "Section 709",
+      "Section 705",
+      "Section 708",
+      "Section 721"
+    ],
+    "correct_answer": "Section 705"
+  },
+  {
+    "text": "In locations with medical equipment, which section of BS 7671 applies?",
+    "options": [
+      "Section 701",
+      "Section 710",
+      "Section 717",
+      "Section 740"
+    ],
+    "correct_answer": "Section 710"
+  },
+  {
+    "text": "Which regulation addresses maximum permissible touch voltage in special installations like swimming pools?",
+    "options": [
+      "701.411.3.3",
+      "702.410.3.4",
+      "411.3.2.2",
+      "522.6.202"
+    ],
+    "correct_answer": "702.410.3.4"
+  },
+  {
+    "text": "What is the maximum permissible Zs for a 6 A Type B MCB (230 V) according to Table 41.3?",
+    "options": [
+      "7.67 \u03a9",
+      "6.87 \u03a9",
+      "5.75 \u03a9",
+      "8.0 \u03a9"
+    ],
+    "correct_answer": "7.67 \u03a9"
+  },
+  {
+    "text": "Which BS 7671 section deals specifically with requirements for marinas and similar locations?",
+    "options": [
+      "Section 709",
+      "Section 740",
+      "Section 721",
+      "Section 717"
+    ],
+    "correct_answer": "Section 709"
+  },
+  {
+    "text": "What maximum earth electrode resistance is recommended for TT systems to ensure reliable RCD operation?",
+    "options": [
+      "21 \u03a9",
+      "50 \u03a9",
+      "100 \u03a9",
+      "200 \u03a9"
+    ],
+    "correct_answer": "200 \u03a9"
+  },
+  {
+    "text": "Which appendix of BS 7671 provides guidance on voltage drop calculations?",
+    "options": [
+      "Appendix 3",
+      "Appendix 4",
+      "Appendix 6",
+      "Appendix 14"
+    ],
+    "correct_answer": "Appendix 4"
+  },
+  {
+    "text": "Which appendix of BS 7671 provides time/current characteristics of protective devices?",
+    "options": [
+      "Appendix 3",
+      "Appendix 4",
+      "Appendix 14",
+      "Appendix 6"
+    ],
+    "correct_answer": "Appendix 3"
+  },
+  {
+    "text": "Which regulation number covers requirements for additional protection by RCDs in locations with baths or showers?",
+    "options": [
+      "701.411.3.3",
+      "701.32",
+      "701.55",
+      "701.410"
+    ],
+    "correct_answer": "701.411.3.3"
+  },
+  {
+    "text": "Which regulation group sets out the requirement for selection of RCD type (A, AC, B, F) based on loads connected?",
+    "options": [
+      "531.3.2",
+      "411.3.3",
+      "701.55",
+      "443.4"
+    ],
+    "correct_answer": "531.3.2"
+  },
+  {
+    "text": "Which section of BS 7671 applies to electrical installations in exhibitions, shows, and stands?",
+    "options": [
+      "Section 711",
+      "Section 740",
+      "Section 717",
+      "Section 708"
+    ],
+    "correct_answer": "Section 711"
+  },
+  {
+    "text": "What is the formula to calculate maximum demand using diversity factors in BS 7671?",
+    "options": [
+      "Ib \u00d7 In",
+      "It = \u03a3 (Individual loads \u00d7 diversity factor)",
+      "Zs = Ze + (R1+R2)",
+      "P=VI"
+    ],
+    "correct_answer": "It = \u03a3 (Individual loads \u00d7 diversity factor)"
+  },
+  {
+    "text": "Which regulation specifies that final circuits supplying luminaires in domestic premises require additional 30 mA RCD protection?",
+    "options": [
+      "411.3.4",
+      "701.411.3.3",
+      "522.6.202",
+      "531.3.2"
+    ],
+    "correct_answer": "411.3.4"
+  },
+  {
+    "text": "In Section 722, which fault condition must EV charge points be designed to mitigate?",
+    "options": [
+      "Overload only",
+      "Open-PEN conductor fault",
+      "Overvoltage only",
+      "Short-circuit only"
+    ],
+    "correct_answer": "Open-PEN conductor fault"
+  },
+  {
+    "text": "Which section of BS 7671 applies to temporary electrical installations for construction and demolition sites?",
+    "options": [
+      "Section 704",
+      "Section 705",
+      "Section 708",
+      "Section 721"
+    ],
+    "correct_answer": "Section 704"
+  }
+]

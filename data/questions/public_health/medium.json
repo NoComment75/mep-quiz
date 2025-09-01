@@ -1,0 +1,302 @@
+[
+  {
+    "text": "Which UK regulation governs sanitation, hot water safety and water efficiency in buildings?",
+    "options": [
+      "Part B",
+      "Part F",
+      "Part G",
+      "Part L"
+    ],
+    "correct_answer": "Part G"
+  },
+  {
+    "text": "What is the minimum storage temperature of hot water in calorifiers to control legionella?",
+    "options": [
+      "50\u00b0C",
+      "55\u00b0C",
+      "60\u00b0C",
+      "65\u00b0C"
+    ],
+    "correct_answer": "60\u00b0C"
+  },
+  {
+    "text": "At what temperature should hot water be distributed to taps to avoid scalding?",
+    "options": [
+      "40\u201341\u00b0C",
+      "45\u201346\u00b0C",
+      "50\u201355\u00b0C",
+      "60\u00b0C"
+    ],
+    "correct_answer": "50\u201355\u00b0C"
+  },
+  {
+    "text": "What is the maximum recommended time for hot water to reach the outlet to ensure hygiene and user comfort?",
+    "options": [
+      "5 seconds",
+      "10 seconds",
+      "20 seconds",
+      "30 seconds"
+    ],
+    "correct_answer": "30 seconds"
+  },
+  {
+    "text": "Which pipe material is most commonly used for domestic hot and cold water systems in the UK?",
+    "options": [
+      "Cast iron",
+      "PVC",
+      "Copper",
+      "Concrete"
+    ],
+    "correct_answer": "Copper"
+  },
+  {
+    "text": "What is the recommended minimum flow rate for a domestic shower?",
+    "options": [
+      "6 L/min",
+      "8 L/min",
+      "10 L/min",
+      "12 L/min"
+    ],
+    "correct_answer": "8 L/min"
+  },
+  {
+    "text": "What is the purpose of a tundish in a hot water system?",
+    "options": [
+      "Prevent siphonage",
+      "Provide visible discharge from safety valve",
+      "Regulate flow",
+      "Store water"
+    ],
+    "correct_answer": "Provide visible discharge from safety valve"
+  },
+  {
+    "text": "Which type of trap is commonly used under a bath?",
+    "options": [
+      "Bottle trap",
+      "P-trap",
+      "S-trap",
+      "Gully trap"
+    ],
+    "correct_answer": "P-trap"
+  },
+  {
+    "text": "What does an interceptor trap do in a drainage system?",
+    "options": [
+      "Collect grease",
+      "Prevent sewer gases entering buildings",
+      "Increase velocity",
+      "Store waste"
+    ],
+    "correct_answer": "Prevent sewer gases entering buildings"
+  },
+  {
+    "text": "What is the minimum gradient for surface water drainage pipes?",
+    "options": [
+      "1:20",
+      "1:40",
+      "1:60",
+      "1:80"
+    ],
+    "correct_answer": "1:60"
+  },
+  {
+    "text": "What is the primary function of a grease trap?",
+    "options": [
+      "Prevent flooding",
+      "Prevent fats and oils entering drainage",
+      "Store sewage",
+      "Reduce odour"
+    ],
+    "correct_answer": "Prevent fats and oils entering drainage"
+  },
+  {
+    "text": "Which water fitting is designed to prevent backflow and contamination at hose connections?",
+    "options": [
+      "Service valve",
+      "Double check valve",
+      "Drain cock",
+      "Ball valve"
+    ],
+    "correct_answer": "Double check valve"
+  },
+  {
+    "text": "Which test is commonly carried out on new soil and waste pipework before use?",
+    "options": [
+      "Air test",
+      "Pressure test",
+      "Smoke test",
+      "Flow test"
+    ],
+    "correct_answer": "Air test"
+  },
+  {
+    "text": "What is the function of a stack vent in a multi-storey drainage system?",
+    "options": [
+      "Store water",
+      "Equalise air pressure and vent gases",
+      "Increase water pressure",
+      "Prevent flooding"
+    ],
+    "correct_answer": "Equalise air pressure and vent gases"
+  },
+  {
+    "text": "Which fitting connects a rainwater downpipe to underground drainage?",
+    "options": [
+      "Channel drain",
+      "Interceptor",
+      "Gully",
+      "Soil pipe"
+    ],
+    "correct_answer": "Gully"
+  },
+  {
+    "text": "What is the purpose of thermal insulation on hot water pipework?",
+    "options": [
+      "Reduce corrosion",
+      "Reduce heat loss and prevent burns",
+      "Prevent siphonage",
+      "Reduce water hammer"
+    ],
+    "correct_answer": "Reduce heat loss and prevent burns"
+  },
+  {
+    "text": "What is the maximum recommended lead content in drinking water in the UK?",
+    "options": [
+      "5 \u00b5g/L",
+      "10 \u00b5g/L",
+      "25 \u00b5g/L",
+      "50 \u00b5g/L"
+    ],
+    "correct_answer": "10 \u00b5g/L"
+  },
+  {
+    "text": "Which type of valve is required on a water supply to allow complete isolation?",
+    "options": [
+      "Service valve",
+      "Gate valve",
+      "Float valve",
+      "Relief valve"
+    ],
+    "correct_answer": "Gate valve"
+  },
+  {
+    "text": "What is the minimum recommended clearance above ground level for external taps?",
+    "options": [
+      "100 mm",
+      "150 mm",
+      "300 mm",
+      "600 mm"
+    ],
+    "correct_answer": "150 mm"
+  },
+  {
+    "text": "Which fitting in a WC cistern stops water flow when full?",
+    "options": [
+      "Gate valve",
+      "Ball valve",
+      "Check valve",
+      "Drain cock"
+    ],
+    "correct_answer": "Ball valve"
+  },
+  {
+    "text": "What is the minimum internal diameter of a WC discharge pipe in the UK?",
+    "options": [
+      "50 mm",
+      "75 mm",
+      "100 mm",
+      "150 mm"
+    ],
+    "correct_answer": "100 mm"
+  },
+  {
+    "text": "What is the typical minimum cover depth for underground drainage pipes to avoid frost damage?",
+    "options": [
+      "150 mm",
+      "300 mm",
+      "450 mm",
+      "600 mm"
+    ],
+    "correct_answer": "600 mm"
+  },
+  {
+    "text": "Which material is commonly used for rainwater downpipes on modern buildings?",
+    "options": [
+      "Lead",
+      "Cast iron",
+      "PVC",
+      "Copper"
+    ],
+    "correct_answer": "PVC"
+  },
+  {
+    "text": "What does the term 'combined drainage system' mean?",
+    "options": [
+      "Rainwater and foul water carried together",
+      "Separate foul and surface systems",
+      "Only rainwater",
+      "Only foul water"
+    ],
+    "correct_answer": "Rainwater and foul water carried together"
+  },
+  {
+    "text": "What is the main disadvantage of a combined drainage system?",
+    "options": [
+      "Higher cost",
+      "Risk of sewage flooding during heavy rain",
+      "Difficult to maintain",
+      "Requires large pipes"
+    ],
+    "correct_answer": "Risk of sewage flooding during heavy rain"
+  },
+  {
+    "text": "Which type of system separates rainwater and foul sewage into different pipes?",
+    "options": [
+      "Dual",
+      "Combined",
+      "Separate",
+      "Soil"
+    ],
+    "correct_answer": "Separate"
+  },
+  {
+    "text": "What is the recommended daily water consumption per person in the UK for design purposes?",
+    "options": [
+      "50 L",
+      "100 L",
+      "120 L",
+      "150 L"
+    ],
+    "correct_answer": "120 L"
+  },
+  {
+    "text": "What is the main function of a drain rodding eye?",
+    "options": [
+      "Vent gases",
+      "Provide access for clearing blockages",
+      "Reduce pressure",
+      "Control flow"
+    ],
+    "correct_answer": "Provide access for clearing blockages"
+  },
+  {
+    "text": "Which valve type controls the water level in storage cisterns?",
+    "options": [
+      "Ball valve",
+      "Gate valve",
+      "Check valve",
+      "Drain cock"
+    ],
+    "correct_answer": "Ball valve"
+  },
+  {
+    "text": "What is the function of a soil vent pipe termination above roof level?",
+    "options": [
+      "Discharge waste",
+      "Release foul gases safely",
+      "Store water",
+      "Prevent siphonage"
+    ],
+    "correct_answer": "Release foul gases safely"
+  }
+]

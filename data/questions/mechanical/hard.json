@@ -1,0 +1,302 @@
+[
+  {
+    "text": "What formula is used to calculate sensible heat load in air systems?",
+    "options": [
+      "Q = m \u00d7 cp \u00d7 \u0394T",
+      "Q = U \u00d7 A \u00d7 \u0394T",
+      "Q = V \u00d7 I",
+      "Q = P \u00d7 V"
+    ],
+    "correct_answer": "Q = m \u00d7 cp \u00d7 \u0394T"
+  },
+  {
+    "text": "Which CIBSE Guide provides detailed HVAC design information?",
+    "options": [
+      "Guide A",
+      "Guide B",
+      "Guide C",
+      "Guide D"
+    ],
+    "correct_answer": "Guide B"
+  },
+  {
+    "text": "Which psychrometric property represents heat absorbed during moisture phase change?",
+    "options": [
+      "Sensible heat",
+      "Latent heat",
+      "Dry bulb temperature",
+      "Enthalpy only"
+    ],
+    "correct_answer": "Latent heat"
+  },
+  {
+    "text": "Which UK healthcare guidance sets ventilation requirements for operating theatres?",
+    "options": [
+      "CIBSE Guide A",
+      "HTM 03-01",
+      "BS EN 16798",
+      "HSG274"
+    ],
+    "correct_answer": "HTM 03-01"
+  },
+  {
+    "text": "What is the recommended minimum ventilation rate for hospital operating theatres under HTM 03-01?",
+    "options": [
+      "10 ACH",
+      "15 ACH",
+      "20 ACH",
+      "25 ACH"
+    ],
+    "correct_answer": "25 ACH"
+  },
+  {
+    "text": "Which British Standard is used for airtightness testing of buildings?",
+    "options": [
+      "BS EN 13829",
+      "BS EN 16798",
+      "BS 9999",
+      "BS 5839"
+    ],
+    "correct_answer": "BS EN 13829"
+  },
+  {
+    "text": "What is the correct unit for U-value in heat transfer?",
+    "options": [
+      "W/m\u00b2\u00b7K",
+      "W/m\u00b7K",
+      "kWh/m\u00b2",
+      "J/kg"
+    ],
+    "correct_answer": "W/m\u00b2\u00b7K"
+  },
+  {
+    "text": "Which load calculation method accounts for solar gain, internal loads, and ventilation in detail?",
+    "options": [
+      "Degree-day",
+      "Heat balance",
+      "Rule of thumb",
+      "Simple diversity"
+    ],
+    "correct_answer": "Heat balance"
+  },
+  {
+    "text": "What is the minimum outside air change rate for laboratories handling hazardous fumes?",
+    "options": [
+      "6 ACH",
+      "8 ACH",
+      "10\u201312 ACH",
+      "12\u201315 ACH"
+    ],
+    "correct_answer": "10\u201312 ACH"
+  },
+  {
+    "text": "Which BS EN standard defines energy performance of buildings and ventilation design?",
+    "options": [
+      "BS EN 13829",
+      "BS EN 16798",
+      "BS 7671",
+      "BS 9999"
+    ],
+    "correct_answer": "BS EN 16798"
+  },
+  {
+    "text": "What is the formula for calculating overall heat transfer through a building element?",
+    "options": [
+      "Q = U \u00d7 A \u00d7 \u0394T",
+      "Q = m \u00d7 cp \u00d7 \u0394T",
+      "Q = V \u00d7 I",
+      "Q = k \u00d7 L \u00d7 A"
+    ],
+    "correct_answer": "Q = U \u00d7 A \u00d7 \u0394T"
+  },
+  {
+    "text": "What is the main reason for selecting a Type C boiler flue system?",
+    "options": [
+      "Cheaper cost",
+      "Uses room air for combustion",
+      "Room-sealed and balanced flue",
+      "Operates only at low pressure"
+    ],
+    "correct_answer": "Room-sealed and balanced flue"
+  },
+  {
+    "text": "Which part of a psychrometric chart indicates relative humidity?",
+    "options": [
+      "Curved lines",
+      "Vertical lines",
+      "Horizontal lines",
+      "Diagonal lines"
+    ],
+    "correct_answer": "Curved lines"
+  },
+  {
+    "text": "Which energy efficiency regulation in the UK sets standards for non-domestic buildings?",
+    "options": [
+      "Part L",
+      "Part F",
+      "BS 9999",
+      "Part G"
+    ],
+    "correct_answer": "Part L"
+  },
+  {
+    "text": "Which CIBSE Guide covers building thermal performance and energy use?",
+    "options": [
+      "Guide A",
+      "Guide B",
+      "Guide C",
+      "Guide D"
+    ],
+    "correct_answer": "Guide A"
+  },
+  {
+    "text": "What does an enthalpy wheel recover in an AHU?",
+    "options": [
+      "Sensible heat only",
+      "Latent and sensible heat",
+      "Moisture only",
+      "Airflow pressure"
+    ],
+    "correct_answer": "Latent and sensible heat"
+  },
+  {
+    "text": "Which advanced HVAC system integrates simultaneous heating and cooling with heat recovery?",
+    "options": [
+      "Split AC",
+      "Two-pipe fan coil",
+      "VRF with heat recovery",
+      "Single duct system"
+    ],
+    "correct_answer": "VRF with heat recovery"
+  },
+  {
+    "text": "What is the formula for calculating water flow rate in L/s from heat load?",
+    "options": [
+      "Q = m \u00d7 cp \u00d7 \u0394T",
+      "Flow = kW / (4.18 \u00d7 \u0394T)",
+      "Flow = U \u00d7 A \u00d7 \u0394T",
+      "Flow = Power \u00d7 Voltage"
+    ],
+    "correct_answer": "Flow = kW / (4.18 \u00d7 \u0394T)"
+  },
+  {
+    "text": "Which refrigerant is often used in absorption chillers with water as the absorbent?",
+    "options": [
+      "Ammonia",
+      "R32",
+      "R410A",
+      "R134a"
+    ],
+    "correct_answer": "Ammonia"
+  },
+  {
+    "text": "What is the primary risk if velocity in supply ductwork exceeds design limits?",
+    "options": [
+      "Pressure drop only",
+      "Noise and draughts",
+      "Condensation",
+      "Fire risk"
+    ],
+    "correct_answer": "Noise and draughts"
+  },
+  {
+    "text": "What advanced control method uses building simulation to optimise HVAC operation?",
+    "options": [
+      "Proportional control",
+      "PID control",
+      "Model Predictive Control",
+      "Relay control"
+    ],
+    "correct_answer": "Model Predictive Control"
+  },
+  {
+    "text": "What is the design relative humidity for data centres to protect IT equipment?",
+    "options": [
+      "20\u201340%",
+      "30\u201350%",
+      "40\u201360%",
+      "50\u201370%"
+    ],
+    "correct_answer": "40\u201360%"
+  },
+  {
+    "text": "Which HTM document applies to ventilation in UK healthcare facilities?",
+    "options": [
+      "HTM 02-01",
+      "HTM 03-01",
+      "HTM 04-01",
+      "HTM 07-02"
+    ],
+    "correct_answer": "HTM 03-01"
+  },
+  {
+    "text": "What is the maximum design CO\u2082 concentration in teaching spaces according to BB101?",
+    "options": [
+      "800 ppm",
+      "1000 ppm",
+      "1200 ppm",
+      "1500 ppm"
+    ],
+    "correct_answer": "1500 ppm"
+  },
+  {
+    "text": "What is the key psychrometric property used to calculate total heat load (sensible + latent)?",
+    "options": [
+      "Dry bulb temperature",
+      "Wet bulb temperature",
+      "Enthalpy",
+      "Relative humidity"
+    ],
+    "correct_answer": "Enthalpy"
+  },
+  {
+    "text": "What is the primary purpose of economiser cycles in AHUs?",
+    "options": [
+      "Increase fan speed",
+      "Reduce duct pressure",
+      "Provide free cooling using outside air",
+      "Improve humidity"
+    ],
+    "correct_answer": "Provide free cooling using outside air"
+  },
+  {
+    "text": "Which system type commonly uses a run-around coil for energy recovery?",
+    "options": [
+      "Chilled beams",
+      "Fan coil units",
+      "Separate supply and extract AHUs",
+      "VRF systems"
+    ],
+    "correct_answer": "Separate supply and extract AHUs"
+  },
+  {
+    "text": "What is the minimum recommended fresh air provision per person in gyms according to CIBSE?",
+    "options": [
+      "8 L/s",
+      "10 L/s",
+      "15 L/s",
+      "20 L/s"
+    ],
+    "correct_answer": "15 L/s"
+  },
+  {
+    "text": "Which heat rejection system has the highest water use but best thermal efficiency?",
+    "options": [
+      "Dry cooler",
+      "Air-cooled condenser",
+      "Cooling tower",
+      "Heat pipe"
+    ],
+    "correct_answer": "Cooling tower"
+  },
+  {
+    "text": "What is the standard design indoor operative temperature for summer comfort in the UK?",
+    "options": [
+      "19\u201321\u00b0C",
+      "21\u201323\u00b0C",
+      "22\u201324\u00b0C",
+      "23\u201325\u00b0C"
+    ],
+    "correct_answer": "22\u201324\u00b0C"
+  }
+]
